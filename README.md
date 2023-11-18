@@ -4,14 +4,14 @@ Hi 🤗, este es mi sitio personal. Aquí puedes encontrar información sobre m�
 proyectos y mis intereses.
 ## Contenido
 * [Información personal](#información-personal)
-* [Proyectos](#proyectos-DAWN(Desarrollo de aplicaciones web))
+* [Proyectos](#proyectos-DAWN)
 * [Intereses](#intereses)
 ## Información personal
 * Nombre: Stephany Carolina Cabezas Tufiño
 * Ocupación: Estudiante de Ing. en Computación
 * Lugar de residencia: Ecuador
 * Sitio web: https://stephcarol.github.io/DAWM/ 
-## Proyectos-DAWN(Desarrollo de aplicaciones web)
+## Proyectos-DAWN
 * Proyecto 1-DAWN: https://github.com/stephcarol/DAWM 
 * Proyecto 2-Curriculum: https://stephcarol.github.io/CURRICULUM/
 * Proyecto 3-Landing Page: https://stephcarol.github.io/PROYECTO3/
