@@ -12,12 +12,12 @@ proyectos y mis intereses.
 * Lugar de residencia: Ecuador
 * Sitio web: https://stephcarol.github.io/DAWM/ 
 ## Proyectos-DAWN
-* Proyecto 1-DAWN: https://github.com/stephcarol/DAWM 
-* Proyecto 2-Curriculum: https://stephcarol.github.io/CURRICULUM/
-* Proyecto 3-Landing Page: https://stephcarol.github.io/PROYECTO3/
+* Proyecto 1-DAWN: [Proyecto 1](https://github.com/stephcarol/DAWM) 
+* Proyecto 2-Curriculum: [Proyecto 2](https://stephcarol.github.io/CURRICULUM/)
+* Proyecto 3-Landing Page: [Proyecto 3](https://stephcarol.github.io/PROYECTO3/)
 ## Intereses
 * Aprendiendo DAWN
 * Aprendiendo a programar en C
 ## Puedes encontrarme 
-* [Instagram] https://www.instagram.com/stephyctf/
-* [Youtube] https://www.youtube.com/
+* [Instagram](https://www.instagram.com/stephyctf/)
+* [Youtube](https://www.youtube.com/)
